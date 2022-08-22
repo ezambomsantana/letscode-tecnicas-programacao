@@ -1,4 +1,4 @@
-# Streams
+# Programação Funcional
 
 ## Functional Interfaces
 
