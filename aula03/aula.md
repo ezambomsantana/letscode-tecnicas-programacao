@@ -24,7 +24,7 @@ O Optional é uma classe para representar valores que podem ter valor ou não, e
 
 Streams são fluxos de dados, que definimos a partir de uma fonte, executamos operações intermediarias que irão modificar os dados no fluxo, e por fim executamos uma operações terminal que produzirá um resultado.
 
-Fonte -> Operações Intermediárias -> Operações Terminais
+Fonte -> Operações Intermediárias -> Operação Terminal
 
 - Fonte: A fonte dos dados que formarão o fluxo de dados, pode ser uma lista, um arquivo, uma consulta no banco de dados.
 - Operações Intermediárias: Operações no fluxo de dados, que vão transformar os dados, mas vão gerar uma nova stream.
