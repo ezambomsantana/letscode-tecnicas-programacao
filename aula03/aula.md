@@ -43,3 +43,13 @@ Fonte -> Operações Intermediárias -> Operações Terminais
     - Encontre o menor e o maior salário desses funcionários.
     - Encontre a média salarial desses funcionários.
     - Escreva o nome do engenheiro de software mais bem pago.
+
+
+2) No mesmo projeto, crie uma classe EngenheiroSoftware, ela terá os mesmos campos da classe Funcionário. Adicione o campo liguagem na classe EngenheiroSoftware.
+
+  - Mapeie todos os funcionários que são engenheiro de software da primeira lista para a nova classe Engenheiro de Software.
+  - Coloque a linguagem seguindo o seguinte padrão:
+    - Até 5000, coloque PHP
+    - Entre 5000 e 10000 coloque JavaScript.
+    - Acima de 10000 coloque Java.
+  - Descubra a média salarial dos engenheiros de software para cada linguagem.
