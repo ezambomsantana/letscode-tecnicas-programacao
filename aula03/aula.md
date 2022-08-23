@@ -26,9 +26,9 @@ Streams são fluxos de dados, que definimos a partir de uma fonte, executamos op
 
 Fonte -> Operações Intermediárias -> Operações Terminais
 
-- Fonte:
-- Operações Intermediárias:
-- Operações Terminais:
+- Fonte: A fonte dos dados que formarão o fluxo de dados, pode ser uma lista, um arquivo, uma consulta no banco de dados.
+- Operações Intermediárias: Operações no fluxo de dados, que vão transformar os dados, mas vão gerar uma nova stream.
+- Operações Terminais: Operações que vão gerar um resultado, pode ser qualquer coisa, um número, uma nova lista, ou uma String por exemplo.
 
 ## Exercícios
 
