@@ -21,3 +21,21 @@ O Java possui as seguintes interfaces funcionais:
 O Optional é uma classe para representar valores que podem ter valor ou não, evitando o uso do null, e evitando que o código tenha vários ifs.
 
 ## Streams
+
+Streams são fluxos de dados, que definimos a partir de uma fonte, executamos operações intermediarias que irão modificar os dados no fluxo, e por fim executamos uma operações terminal que produzirá um resultado.
+
+Fonte -> Operações Intermediárias -> Operações Terminais
+
+- Fonte:
+- Operações Intermediárias:
+- Operações Terminais:
+
+## Exercícios
+
+1) Crie uma classe Funcionário, que tenha os seguintes campos, nome, cargo e salário. A partir disso faça as seguintes operações.
+
+  - Crie uma lista com 10 funcionários.
+  - Crie uma stream a partir dessa lista.
+  - Calcule a média dos salários.
+  - Ache o funcionário com o maior salário.
+  - Ache o funcionário com o menor salário.
