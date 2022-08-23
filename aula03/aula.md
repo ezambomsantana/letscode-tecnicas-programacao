@@ -39,3 +39,7 @@ Fonte -> Operações Intermediárias -> Operações Terminais
   - Calcule a média dos salários.
   - Ache o funcionário com o maior salário.
   - Ache o funcionário com o menor salário.
+  - Filtre apenas os funcionários com o cargo de engenheiro de software, que tenham um salário maior que 5000.
+    - Encontre o menor e o maior salário desses funcionários.
+    - Encontre a média salarial desses funcionários.
+    - Escreva o nome do engenheiro de software mais bem pago.
