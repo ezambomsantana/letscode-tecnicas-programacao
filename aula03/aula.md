@@ -52,7 +52,7 @@ Fonte -> Operações Intermediárias -> Operação Terminal
   - Filtre apenas os funcionários que tem apenas mais de 10 anos de empresa.
 
 
-3) No mesmo projeto, crie uma classe EngenheiroSoftware, ela herdará da classe Funcionário. Adicione o campo liguagem na classe EngenheiroSoftware.
+3) No mesmo projeto, crie uma classe EngenheiroSoftware, ela terá os mesmos campos da classe Funcionário. Adicione o campo liguagem na classe EngenheiroSoftware.
 
   - Mapeie todos os funcionários que são engenheiro de software da primeira lista para a nova classe Engenheiro de Software.
   - Coloque a linguagem seguindo o seguinte padrão:
