@@ -44,8 +44,15 @@ Fonte -> Operações Intermediárias -> Operação Terminal
     - Encontre a média salarial desses funcionários.
     - Escreva o nome do engenheiro de software mais bem pago.
 
+2) Ainda no mesmo projeto, adicione o campo dataContratacao e dataDemissao nos funcionarios. Adicione algumas datas aleatóriamente nos funcionários criados.
 
-2) No mesmo projeto, crie uma classe EngenheiroSoftware, ela terá os mesmos campos da classe Funcionário. Adicione o campo liguagem na classe EngenheiroSoftware.
+  - Ordene os funcionários do mais antigo até o mais novo.
+  - Calcule quantos anos em média os funcionários ficam na empresa.
+  - Verifique o funcionários que está a mais tempo na empresa.
+  - Filtre apenas os funcionários que tem apenas mais de 10 anos de empresa.
+
+
+3) No mesmo projeto, crie uma classe EngenheiroSoftware, ela herdará da classe Funcionário. Adicione o campo liguagem na classe EngenheiroSoftware.
 
   - Mapeie todos os funcionários que são engenheiro de software da primeira lista para a nova classe Engenheiro de Software.
   - Coloque a linguagem seguindo o seguinte padrão:
@@ -54,5 +61,4 @@ Fonte -> Operações Intermediárias -> Operação Terminal
     - Acima de 10000 coloque Java.
   - Descubra a média salarial dos engenheiros de software para cada linguagem.
 
-3) Ainda no mesmo projeto, adicione o campo dataContratacao e dataDemissao nos funcionarios.
 
