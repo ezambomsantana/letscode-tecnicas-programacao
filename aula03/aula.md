@@ -32,7 +32,7 @@ Fonte -> Operações Intermediárias -> Operação Terminal
 
 ## Exercícios
 
-1) Crie uma classe Funcionário, que tenha os seguintes campos, nome, cargo e salário. A partir disso faça as seguintes operações.
+1) Crie uma classe Funcionário, que tenha os seguintes campos: nome, cargo e salário. A partir disso faça as seguintes operações.
 
   - Crie uma lista com 10 funcionários.
   - Crie uma stream a partir dessa lista.
@@ -53,3 +53,6 @@ Fonte -> Operações Intermediárias -> Operação Terminal
     - Entre 5000 e 10000 coloque JavaScript.
     - Acima de 10000 coloque Java.
   - Descubra a média salarial dos engenheiros de software para cada linguagem.
+
+3) Ainda no mesmo projeto, adicione o campo dataContratacao e dataDemissao nos funcionarios.
+
