@@ -24,7 +24,7 @@ O Optional é uma classe para representar valores que podem ter valor ou não, e
 
 Streams são fluxos de dados, que definimos a partir de uma fonte, executamos operações intermediarias que irão modificar os dados no fluxo, e por fim executamos uma operações terminal que produzirá um resultado.
 
-Fonte -> Operações Intermediárias -> Operações Terminais
+Fonte -> Operações Intermediárias -> Operação Terminal
 
 - Fonte: A fonte dos dados que formarão o fluxo de dados, pode ser uma lista, um arquivo, uma consulta no banco de dados.
 - Operações Intermediárias: Operações no fluxo de dados, que vão transformar os dados, mas vão gerar uma nova stream.
@@ -32,7 +32,7 @@ Fonte -> Operações Intermediárias -> Operações Terminais
 
 ## Exercícios
 
-1) Crie uma classe Funcionário, que tenha os seguintes campos, nome, cargo e salário. A partir disso faça as seguintes operações.
+1) Crie uma classe Funcionário, que tenha os seguintes campos: nome, cargo e salário. A partir disso faça as seguintes operações.
 
   - Crie uma lista com 10 funcionários.
   - Crie uma stream a partir dessa lista.
@@ -44,8 +44,15 @@ Fonte -> Operações Intermediárias -> Operações Terminais
     - Encontre a média salarial desses funcionários.
     - Escreva o nome do engenheiro de software mais bem pago.
 
+2) Ainda no mesmo projeto, adicione o campo dataContratacao e dataDemissao nos funcionarios. Adicione algumas datas aleatóriamente nos funcionários criados.
 
-2) No mesmo projeto, crie uma classe EngenheiroSoftware, ela terá os mesmos campos da classe Funcionário. Adicione o campo liguagem na classe EngenheiroSoftware.
+  - Ordene os funcionários do mais antigo até o mais novo.
+  - Calcule quantos anos em média os funcionários ficam na empresa.
+  - Verifique o funcionários que está a mais tempo na empresa.
+  - Filtre apenas os funcionários que tem apenas mais de 10 anos de empresa.
+
+
+3) No mesmo projeto, crie uma classe EngenheiroSoftware, ela terá os mesmos campos da classe Funcionário. Adicione o campo liguagem na classe EngenheiroSoftware.
 
   - Mapeie todos os funcionários que são engenheiro de software da primeira lista para a nova classe Engenheiro de Software.
   - Coloque a linguagem seguindo o seguinte padrão:
@@ -53,3 +60,5 @@ Fonte -> Operações Intermediárias -> Operações Terminais
     - Entre 5000 e 10000 coloque JavaScript.
     - Acima de 10000 coloque Java.
   - Descubra a média salarial dos engenheiros de software para cada linguagem.
+
+
