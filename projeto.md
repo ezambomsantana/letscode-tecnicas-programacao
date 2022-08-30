@@ -1,6 +1,5 @@
 # Projeto
 
-
 Pegar o arquivo com o histórico do campeonato brasileiro: https://www.kaggle.com/datasets/adaoduque/campeonato-brasileiro-de-futebol?select=campeonato-brasileiro-full.csv e fazer as seguintes análises:
 
 1) Quantas partidas aconteceram no total?
@@ -15,4 +14,10 @@ Pegar o arquivo com o histórico do campeonato brasileiro: https://www.kaggle.co
 12) Qual o time que mais ganhou?
 13) Qual o time que mais perdeu?
 14) Mostre quantos jogos aconteceram por ano desde 2003.
-15) Mostre quantos jogos todos os times jogaram.
+15) Mostre quantos jogos cada um dos times jogaram.
+
+16) Faça outras duas análises definadas pelo grupo.
+
+## Grupos
+
+O projeto pode ser implementado por grupos de até 3 alunos. Todos devem subir o exercício no class.
