@@ -13,18 +13,17 @@ Pegar o arquivo com o histórico do campeonato brasileiro: https://www.kaggle.co
 7) Qual o time teve mais vitórias?
 8) Quantos jogos foram vencidos por mandantes?
 9) Quantos jogos foram vencidos por visitantes?
-10) Qual o time que mais ganhou?
-11) Qual o time que mais perdeu?
-12) Mostre quantos jogos aconteceram por ano desde 2003.
-13) Mostre quantos jogos cada um dos times jogaram.
+10) Qual o time que mais perdeu?
+11) Mostre quantos jogos aconteceram por ano desde 2003.
+12) Mostre quantos jogos cada um dos times jogaram.
 
-14) Faça outras duas análises definadas pelo grupo.
+13) Faça outras duas análises definadas pelo grupo.
 
 Por último, salve as análises em um arquivo texto, uma informação por linha. O formato do arquivo é livre.
 
 ## Entrega
 
-Entregar no class um link para o GitHub com o projeto.
+Entregar no class o código fonte do projeto.
 
 ## Grupos
 
