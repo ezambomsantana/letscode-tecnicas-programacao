@@ -6,7 +6,7 @@ Pegar o arquivo com o histórico do campeonato brasileiro: https://www.kaggle.co
 
 1) Quantas partidas aconteceram no total?
 2) Quantos gols tiveram no total?
-3) Quantas partidas ocorreram ente 2010 e 215?
+3) Quantas partidas ocorreram ente 2010 e 2015?
 4) Qual o jogo que teve mais gols no campeonato?
 5) Qual o time que fez mais gols?
 6) Qual o time que mais levou gols?
