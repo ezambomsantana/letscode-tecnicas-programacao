@@ -1,7 +1,7 @@
 # Projeto
 
 
-Pegar o arquivo com o histórico do campeonato brasileiro: [https://www.kaggle.com/datasets/unanimad/the-oscar-award](https://www.kaggle.com/datasets/adaoduque/campeonato-brasileiro-de-futebol?select=campeonato-brasileiro-full.csv) e fazer as seguintes análises:
+Pegar o arquivo com o histórico do campeonato brasileiro: https://www.kaggle.com/datasets/adaoduque/campeonato-brasileiro-de-futebol?select=campeonato-brasileiro-full.csv e fazer as seguintes análises:
 
 1) Quantas partidas aconteceram no total?
 2) Quantos gols tiveram no total?
