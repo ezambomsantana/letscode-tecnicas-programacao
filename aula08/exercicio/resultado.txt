@@ -1,0 +1,57 @@
+1) 7645
+2) 19735
+13) 2015
+3) 2280
+4) 11 2003-10-22 BahiaxSantos
+8) 3833
+9) 1797
+11) {2016=379, 2017=380, 2018=380, 2019=380, 2020=268, 2021=492, 2003=552, 2004=552, 2005=462, 2006=380, 2007=380, 2008=380, 2009=380, 2010=380, 2011=380, 2012=380, 2013=380, 2014=380, 2015=380}
+5) Santos 1095
+6) Fluminense 984
+7) Sao Paulo 338
+10) Athletico-PR 260
+Gremio 700
+America-RN 38
+Figueirense 438
+Flamengo 742
+Bahia 388
+Corinthians 704
+Atletico-MG 703
+Goias 514
+Brasiliense 42
+Portuguesa 114
+Gremio Prudente 38
+CSA 38
+Fluminense 742
+Ceara 228
+Sport 418
+Cruzeiro 666
+Botafogo-RJ 620
+Vasco 590
+Bragantino 76
+Cuiaba 38
+Avai 228
+Barueri 38
+Santo Andre 38
+Vitoria 396
+America-MG 152
+Chapecoense 265
+Fortaleza 240
+Athletico-PR 704
+Sao Paulo 742
+Sao Caetano 172
+Criciuma 168
+Guarani 130
+Internacional 704
+Nautico 190
+Ipatinga 38
+Santos 742
+Joinville 38
+Juventude 248
+Palmeiras 658
+Parana 248
+Santa Cruz 76
+Atletico-GO 228
+Ponte Preta 362
+Paysandu 134
+Coritiba 514
